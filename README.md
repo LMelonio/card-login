@@ -8,7 +8,3 @@ Estilização Personalizada: O card é estilizado com cores, fontes e espaçamen
 Tecnologias Utilizadas
 HTML: Utilizado para estruturar o conteúdo do card de login.
 CSS: Responsável pelo estilo e layout do card, incluindo cores, fontes e espaçamentos.
-
-Estrutura do Projeto
-index.html: Contém a estrutura HTML do card de login.
-index.css: Arquivo CSS que define o estilo e layout do card de login.
